@@ -1,7 +1,7 @@
 # Database-Design-Development---HTTP-5126-0NB
 
 ## About This Repository
-This repository contains coursework and projects for **Back-End Web Development 1**. It covers database design SQL and MySQL.
+This repository contains coursework and projects for **Database Design Development**. It covers database design SQL and MySQL.
 
 ## Repository Link
 [GitHub Repo](https://github.com/GulzarFatima/Database-Design-Development---HTTP-5126-0NB.git)
